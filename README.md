@@ -1,6 +1,6 @@
-# Will You Be My Valentine? 
+# Can we go out for some Chatpata khana? 
 
-This project is designed to be an interactive webpage to ask someone to be your Valentine. Please use this code as inspiration.
+This project is designed to be an interactive webpage to ask someone to ask out. Please use this code as inspiration.
 ---
 ## Respect Open-Source
 I built this for **fun & learning**. If you fork or modify it:  
